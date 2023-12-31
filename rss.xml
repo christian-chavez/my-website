@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Gatsby Starter Blog RSS Feed]]></description><link>https://christian-chavez.github.io/my-website</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 Dec 2023 05:57:52 GMT</lastBuildDate><item><title><![CDATA[A repository of my undergraduate studies]]></title><description><![CDATA[This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to…]]></description><link>https://christian-chavez.github.io/my-website/christian/</link><guid isPermaLink="false">https://christian-chavez.github.io/my-website/christian/</guid><pubDate>Thu, 28 Dec 2023 02:35:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to see real mathematics.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Gatsby Starter Blog RSS Feed]]></description><link>https://christian-chavez.github.io/my-website</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 Dec 2023 06:17:24 GMT</lastBuildDate><item><title><![CDATA[A repository of my undergraduate studies]]></title><description><![CDATA[This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to…]]></description><link>https://christian-chavez.github.io/my-website/christian/</link><guid isPermaLink="false">https://christian-chavez.github.io/my-website/christian/</guid><pubDate>Thu, 28 Dec 2023 02:35:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to see real mathematics.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Before the begining of a new semester, it is common ammong students to ask for study material to other students that have already passed certain classes. With the newcomers in mind, I have collected below study resources of the most important courses I have taken as an undergradute mathematics student. Based on discussions with classmates and professors, I also share specific insights and  general recommendations on certain subjects of the  mathematics program of Yachay Tech.&lt;/p&gt;
 &lt;p&gt;Among other things, you will find:&lt;/p&gt;
 &lt;ul&gt;
@@ -7,22 +7,24 @@
 &lt;li&gt;problem sets &amp;#x26; solutions to exercises&lt;/li&gt;
 &lt;li&gt;book recommendations&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;Logic&lt;/h1&gt;
-&lt;p&gt;Prof. Francesc Anton i Castro (Cesc). My dearest professor.&lt;/p&gt;
-&lt;h1&gt;Advanced linear algebra&lt;/h1&gt;
-&lt;p&gt;I did like the course!
-Prof. Raúl Manzanilla.&lt;/p&gt;
-&lt;p&gt;You will learn Matlab for sure!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Books:
-&lt;ul&gt;
-&lt;li&gt;Ciarlet&lt;/li&gt;
-&lt;li&gt;Advanced Linear and Matrix Algebra by Nathaniel Johnston: it is one of my main references when I need to check some topic related to linear algebra. Another excellent one is Linear algebra Done Right. Sheldon Axler&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Final project&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Take the Matlab on rap course&lt;/p&gt;
+&lt;!-- # Logic
+
+Prof. Francesc Anton i Castro (Cesc). My dearest professor.
+
+# Advanced linear algebra
+
+I did like the course!
+Prof. Raúl Manzanilla.
+
+You will learn Matlab for sure! 
+
+- Books: 
+    - Ciarlet
+    - Advanced Linear and Matrix Algebra by Nathaniel Johnston: it is one of my main references when I need to check some topic related to linear algebra. Another excellent one is Linear algebra Done Right. Sheldon Axler 
+- Final project
+
+
+Take the Matlab on rap course --&gt;
 &lt;h1&gt;Real analysis&lt;/h1&gt;
 &lt;p&gt;Professor Eusebio Ariza taught this course the second semester of 2022.&lt;/p&gt;
 &lt;p&gt;Some classmates recommend to take this course before topology. In a way, topology &lt;a href=&quot;https://www.youtube.com/watch?v=PXIcas22MtQ&amp;#x26;t=308s&quot;&gt;generalizes&lt;/a&gt; some of the concepts covered in this course. Taking this course first may have the advantage of fostering a bit of  &lt;a href=&quot;https://sigmaa.maa.org/rume/crume2019/Papers/106.pdf&quot;&gt;mathematical maturity&lt;/a&gt; (which would be helpful for topology).&lt;/p&gt;
@@ -37,7 +39,7 @@ Prof. Raúl Manzanilla.&lt;/p&gt;
 &lt;li&gt;Introduction to Classical Real Analysis by Karl Stromberg.  This is the reference we used at the begining of our course.&lt;/li&gt;
 &lt;li&gt;Introducción al Análisis Real by Tineo &amp;#x26; Uzcátegui.&lt;/li&gt;
 &lt;li&gt;Supplement for Measure, Integration &amp;#x26; Real Analysis by Sheldon Axler,  freely available &lt;a href=&quot;https://measure.axler.net/SupplementMIRA.pdf&quot;&gt;here&lt;/a&gt;. This is a concise reference that one may use to review key concepts of the course.&lt;/li&gt;
-&lt;li&gt;Principles of Mathematical Analysis by Walter Rudin. This is book is not meant to be an introductory textbook. I used as  reference only.&lt;/li&gt;
+&lt;li&gt;Principles of Mathematical Analysis by Walter Rudin. This  book is not meant to be an introductory textbook. Use it  as  reference only.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -84,13 +86,18 @@ Both subjects  demand a lot of time.  A good understanding of topology is essent
 &lt;p&gt;You have to learn the fundamental theorems of functional analysis, which are all consequences of Baire&apos;s theorem, which happens to be a main result of topology. (Yes, topology again.)&lt;/p&gt;
 &lt;p&gt;Some thoughts: sheldon axler&apos;s linear algebra done right must be the go to reference to use for the course of advanced linear algebra (or the newer course: linear and multilinear algebra), if an analysis point of view is keep in mind. actually it must be regardless of any enfoque para los futuros estudiantes.&lt;/p&gt;
 &lt;h1&gt;Other courses&lt;/h1&gt;
-&lt;p&gt;You will find material for other courses I&apos;ve taken in my &lt;em&gt;Lecture Notes&lt;/em&gt; page, with not so detail though.&lt;/p&gt;
+&lt;p&gt;I will soon add some other courses.&lt;/p&gt;
+&lt;!-- You will find material for other courses I&apos;ve taken in my _Lecture Notes_ page, with not so detail though. --&gt;
 &lt;h1&gt;Other kind of  material&lt;/h1&gt;
-&lt;h3&gt;My LaTeX templates&lt;/h3&gt;
-&lt;p&gt;beamer&lt;/p&gt;
-&lt;p&gt;Latex&lt;/p&gt;
-&lt;p&gt;Article&lt;/p&gt;
+&lt;p&gt;Comming soon: LaTeX templates&lt;/p&gt;
+&lt;!-- ### My LaTeX templates
+
+beamer
+
+Latex
+
+Article --&gt;
 &lt;h1&gt;Close&lt;/h1&gt;
 &lt;p&gt;This is just my opinion.
 Feel free to look for your own resources.
-Feel free to reach me out. Contact.&lt;/p&gt;</content:encoded></item></channel></rss>
+Feel free to contact me if you have any question or suggestion: &lt;a href=&quot;mailto:kevin.chavez@yachaytech.edu.ec&quot;&gt;kevin.chavez@yachaytech.edu.ec&lt;/a&gt;, 0994819015&lt;/p&gt;</content:encoded></item></channel></rss>
