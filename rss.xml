@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 Dec 2023 03:24:29 GMT</lastBuildDate><item><title><![CDATA[A repository of my undergraduate studies]]></title><description><![CDATA[This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/christian/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/christian/</guid><pubDate>Thu, 28 Dec 2023 02:35:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;This post is dedicated to the mathematics students of Yachay Tech that are about to start their third year, the year at which they start to see real mathematics.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Before the begining of a new semester, it is common ammong students to ask for study material to other students that have already passed certain classes. With the newcomers in mind, I have collected below study resources of the most important courses I have taken as an undergradute mathematics student. Based on discussions with classmates and professors, I also share specific insights and  general recommendations on certain subjects of the  mathematics program of Yachay Tech.&lt;/p&gt;
+&lt;p&gt;Among other things, you will find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;past exams and quizzes&lt;/li&gt;
+&lt;li&gt;assignments&lt;/li&gt;
+&lt;li&gt;problem sets &amp;#x26; solutions to exercises&lt;/li&gt;
+&lt;li&gt;book recommendations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Logic&lt;/h1&gt;
+&lt;p&gt;Prof. Francesc Anton i Castro (Cesc). My dearest professor.&lt;/p&gt;
+&lt;h1&gt;Advanced linear algebra&lt;/h1&gt;
+&lt;p&gt;I did like the course!
+Prof. Raúl Manzanilla.&lt;/p&gt;
+&lt;p&gt;You will learn Matlab for sure!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Books:
+&lt;ul&gt;
+&lt;li&gt;Ciarlet&lt;/li&gt;
+&lt;li&gt;Advanced Linear and Matrix Algebra by Nathaniel Johnston: it is one of my main references when I need to check some topic related to linear algebra. Another excellent one is Linear algebra Done Right. Sheldon Axler&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Final project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Take the Matlab on rap course&lt;/p&gt;
+&lt;h1&gt;Real analysis&lt;/h1&gt;
+&lt;p&gt;Some classmates recommend to take this course before topology. In a way, topology &lt;a href=&quot;https://www.youtube.com/watch?v=PXIcas22MtQ&amp;#x26;t=308s&quot;&gt;generalizes&lt;/a&gt; some of the concepts covered in this course. Taking this course first may have the advantage of fostering a bit of  &lt;a href=&quot;https://sigmaa.maa.org/rume/crume2019/Papers/106.pdf&quot;&gt;mathematical maturity&lt;/a&gt; which would be helpful for topology.&lt;/p&gt;
+&lt;p&gt;Prof. Eusebio Ariza is a great teacher, but I didn&apos;t like zoom classes.&lt;/p&gt;
+&lt;p&gt;Check out the supplement for MIRA&lt;/p&gt;
+&lt;h1&gt;Topology&lt;/h1&gt;
+&lt;!-- &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
+	&lt;img src=&quot;/media/Trefoil.png&quot; alt=&quot;Gutenberg&quot;&gt;
+	&lt;figcaption&gt;A trefoil knot, which you will not study in this course.&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;My favorite subject. It is given by Prof. Wilman Brito since the  second semester 2022. I took it the same semester when I took Real Analysis, although it may be advisable to take Real Analysis first.
+Both subjects  demand a lot of time.  A good understanding of topology is essential for future courses. Wilman has always put emphasis on how important this subject is and now that I&apos;m in my last year I can confirm that it is indeed the case.&lt;/p&gt;
+&lt;p&gt;This is an introductory course to topology or, better said, to what is called point set topology or general topology. You will not see classical topological objects like the Klein bottle. A deeper study of topology is Algebraic Topology. Munkres does cover this subject from chapter 9 onwards. Last time Wilman took a &lt;em&gt;metric spaces first&lt;/em&gt; approach to the course. He will probably do the same next semester, so keep this in mind if you want to study ahead.&lt;/p&gt;
+&lt;p&gt;I learned topology mainly using &lt;a href=&quot;https://www.math.toronto.edu/ivan/mat327/?resources&quot;&gt;this lecture notes&lt;/a&gt; from the University of Toronto for the course &lt;em&gt;MAT327 • Topology&lt;/em&gt;, which  has a lot of material already. I recommend to check the &lt;a href=&quot;https://www.math.toronto.edu/ivan/mat327/?summaries&quot;&gt;lecture summaries section&lt;/a&gt; and the &lt;a href=&quot;https://www.math.toronto.edu/ivan/mat327/docs/biglist.pdf&quot;&gt;big list of problems&lt;/a&gt;. This lecture notes cover most of the material that  Wilman covers.&lt;/p&gt;
+&lt;p&gt;Here are my materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Past exams &amp;#x26; quices&lt;/strong&gt;: &lt;a href=&quot;https://drive.google.com/drive/folders/1kWLba-zahfqE577T1DpE23nNE3EXy337?usp=sharing&quot;&gt;here&lt;/a&gt;. &lt;!-- - I included past exams of last semester (2023 sem 2).  --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignments, problem sets, lecture notes&lt;/strong&gt;: &lt;a href=&quot;https://drive.google.com/drive/folders/1wudXqD0HqdawagfWOOVBidPOB7i0Ezmt?usp=sharing&quot;&gt;here&lt;/a&gt;. Take a look at the lectures folder to see the topics covered at every class when I took the course.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Book:&lt;/strong&gt; Topology by James Munkres (second edition), but other good ones are
+&lt;ul&gt;
+&lt;li&gt;Introduction to Topology by Tej Bahadur&lt;/li&gt;
+&lt;li&gt;Elementary Topology Problem Textbook by  O. Ya. Viro et al. I liked it because it has an introduction to algebraic topology, where finally you will learn about the Klein bottle, the möbius strip and alike topology objects.&lt;/li&gt;
+&lt;li&gt;Topology without tears by Sidney A. Morris. A lot of classmates recommended it. It lacks some topics though.&lt;/li&gt;
+&lt;li&gt;Topology by Fairchild and Ionescu. As Prof. Mayorga says,  it seems this book was made so that you learn  functional analysis later on.&lt;/li&gt;
+&lt;li&gt;General topology by Engelking. I liked it because it has a good discussion on the separation axioms.&lt;/li&gt;
+&lt;li&gt;Introduction to Topology by Gamelin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Measure Theory&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Measure, Integration and Real Analysis by Sheldon Axler: it is one of the best ever written books I&apos;ve ever read. It is not aimed at undergraduate level though. However, it is an invaluable reference. The author leaves a lot of details to the reader, but provides concise and very clean proofs.  Actually, I used it as a reference for Functional Analysis (check chapter 6, especially the section  &lt;em&gt;Consequences of Baire&apos;s Theorem&lt;/em&gt;), Probability Theory (the last chapter is devoted presents a gentle introduction) and even when I had to review some stuff on the Cantor Set (an intricate set with a lot of topological properties, see section 2D).&lt;/li&gt;
+&lt;li&gt;Professor Brito&apos;s &lt;em&gt;Aromas de una misma escencia&lt;/em&gt;: it was a great reference, especially because he taught the course. His book contains the sharpest proofs for the results covered in this class.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Abstract Algebra&lt;/h1&gt;
+&lt;p&gt;Pablo Rosero taught me abstract algebra.&lt;/p&gt;
+&lt;p&gt;Category thery, checkout my presentation.&lt;/p&gt;
+&lt;h1&gt;Functional Analysis&lt;/h1&gt;
+&lt;p&gt;Prof. Juan Mayorga. He has his own book.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I liked very much Promislow. It is very rigorous but nevertheless  a very accessible introduction to Functional Analysis.&lt;/li&gt;
+&lt;li&gt;Kreyszig: it is among to most popular books on the subject. I didn&apos;t like certain aspects on the notation used.&lt;/li&gt;
+&lt;li&gt;Brezis: do not use it as an introductory textbook, but as a reference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You have to learn the fundamental theorems of functional analysis, which are all consequences of Baire&apos;s theorem, which happens to be a main result of topology. (Yes, topology again.)&lt;/p&gt;
+&lt;p&gt;Some thoughts: sheldon axler&apos;s linear algebra done right must be the go to reference to use for the course of advanced linear algebra (or the newer course: linear and multilinear algebra), if an analysis point of view is keep in mind. actually it must be regardless of any enfoque para los futuros estudiantes.&lt;/p&gt;
+&lt;h1&gt;Other courses&lt;/h1&gt;
+&lt;p&gt;You will find material for other courses I&apos;ve taken in my &lt;em&gt;Lecture Notes&lt;/em&gt; page, with not so detail though.&lt;/p&gt;
+&lt;h1&gt;Other kind of  material&lt;/h1&gt;
+&lt;h3&gt;My LaTeX templates&lt;/h3&gt;
+&lt;p&gt;beamer&lt;/p&gt;
+&lt;p&gt;Latex&lt;/p&gt;
+&lt;p&gt;Article&lt;/p&gt;
+&lt;h1&gt;Close&lt;/h1&gt;
+&lt;p&gt;This is just my opinion.
+Feel free to look for your own resources.
+Feel free to reach me out. Contact.&lt;/p&gt;</content:encoded></item></channel></rss>
